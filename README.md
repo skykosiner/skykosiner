@@ -3,3 +3,7 @@
   <br />
   Full stack web developer | content creator
 </div>
+<div align="center">
+  <h2>Links</h2>
+  <a href="https://instagram.com/kosiner.codes">Instagram</a>
+</div>
