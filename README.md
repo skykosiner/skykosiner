@@ -9,3 +9,8 @@
   <br /> <a target=" _blank" href="https://twitter.com/KosinerYoni">Twitter</a>
   <br /> <a target=" _blank" href="https://www.youtube.com/channel/UCceuqcaS7oAGBYMBEhTyDEQ">YouTube</a>
 </div>
+<div align="center">
+  <h2>Contact me</h2>
+  <p>Email: yoni@kosiner.co.uk</p>
+  <p>Discord: Yoni Kosiner#3955</p>
+</div>
