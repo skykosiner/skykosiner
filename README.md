@@ -13,5 +13,5 @@
 <div align="center">
   <h2>Contact me</h2>
   <p>Email: yoni@kosiner.co.uk</p>
-  <p>Discord: Yoni Kosiner#3955</p>
+  <p>Discord: Yonithy#3242</p>
 </div>
