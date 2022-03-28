@@ -1,7 +1,7 @@
 <div align="center">
-  <h1>Hello My Name Is Yoni Kosiner.</h1>
+  <h1>Hello There, My Name Is Yoni Kosiner.</h1>
   <br />
-  Full stack web developer | content creator
+  Full stack web developer (primarily backend focused) | content creator
 </div>
 <div align="center">
   <h2>Links</h2>
@@ -12,6 +12,6 @@
 </div>
 <div align="center">
   <h2>Contact me</h2>
-  <p>Email: yoni@kosiner.co.uk</p>
+  <p><a href="mailto:yoni@kosiner.co.uk">Email: yoni@kosiner.co.uk</a></p>
   <p>Discord: Yonithy#3242</p>
 </div>
