@@ -1,17 +1,15 @@
-<div align="center">
-  <h1>Hello There, My Name Is Yoni Kosiner.</h1>
-  <br />
-  Full stack web developer (primarily backend focused) | content creator
-</div>
-<div align="center">
-  <h2>Links</h2>
-  <a target=" _blank" href="https://instagram.com/kosiner.codes">Instagram</a>
-  <br /> <a target=" _blank" href="https://twitter.com/KosinerYoni">Twitter</a>
-  <br /> <a target=" _blank" href="https://www.youtube.com/channel/UCceuqcaS7oAGBYMBEhTyDEQ">YouTube</a>
-  <br /> <a target=" _blank" href="https://linktr.ee/yonikosiner">More Links (setup gear and more)</a>
-</div>
-<div align="center">
-  <h2>Contact me</h2>
-  <p><a href="mailto:yoni@kosiner.co.uk">Email: yoni@kosiner.co.uk</a></p>
-  <p>Discord: Yonithy#3242</p>
-</div>
+I'm just a simple man trying to make his away around the universe.
+* I like to code tools that help me out while coding other things (is this recursion?)
+* Check out my neovim plugin [todo-me-daddy](https://github.com/yonikosiner/todo-me-daddy)
+
+## Fun facts
+* I use [neovim](https://github.com/neovim/neovim) btw
+* I use dvoark btw (real-programers-dvorak)
+	* I can still somehow type in qwerty, and both dvorak (yes the darkside is a pathway to many abilities some conisder to be unnatural)
+## Socials
+* [Twitter](https://twitter.com/KosinerYoni)
+* [Instagram](https://instagram.com/kosiner.codes)
+* [YouTube](https://youtube.com/c/yonikosiner)
+* [Twitch](https://twitch.tv/yonikosiner)
+* [Email](mailto:yoni@kosiner.co.uk)
+* Discord - Yonithy#3242
