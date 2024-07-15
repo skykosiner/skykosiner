@@ -1,3 +1,3 @@
 I use vim btw 
 <br />
-[My links](https://skykosiner.com/html/links.html)
+[My links](https://skykosiner.com/links)
